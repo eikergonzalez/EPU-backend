@@ -1,0 +1,10 @@
+Flask
+flask-cors
+python-dotenv
+sqlalchemy
+cx_Oracle
+flasgger
+marshmallow
+paramiko
+py7zr
+pandas
